@@ -10,7 +10,8 @@ pub fn main(init: std.process.Init) !void {
 
     std.debug.print("हिन्दी\n", .{});
 
-    const text = "hello नमस्ते cześć もしもし اتجاه привіт 안녕 مرحبًا 👋😀🎷🇯🇵☝🏾";
+    // const text = "hello नमस्ते cześć もしもし اتجاه привіт 안녕 مرحبًا 👋😀🎷🇯🇵☝🏾";
+    const text = "चूंकि मानव अधिकारों के प्रति उपेक्षा";
 
     const font_size = 28;
 
